@@ -1,0 +1,190 @@
+#content{
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: #E8ECF3;
+	width: 80%;
+	padding-bottom: 50px;
+}
+#content table{
+	/*margin: 0 100px 0 100px;*/
+	width: 100%;
+}
+#content tr{
+	height: 100px;
+	text-align: center;
+}
+#content tr td p{
+	font-size: 25px;
+	margin-bottom: 5px;
+	margin-left: 80px;
+}
+
+.shadow-contact-left,.shadow-contact-right{
+	height: 437px;
+}
+#roll-table-content .date{
+	margin:0 0 0 71px;
+
+}
+#list-class{
+	width: 100px;
+	text-align: center;
+}
+#list-date{
+	width: 100px;
+	text-align: center;
+}
+
+#list-content{
+	width: 500px;
+	text-align: center;
+}
+#content th{
+	text-align: center;
+}
+.roll-tr-1{
+	background: url(../imgs/roll-head.jpg);
+	width: 100%;
+	height: 100px;
+
+}
+.roll-tr-2{
+	background: #656565;
+	text-align: center;
+	padding: 5px;
+	height: 80px;
+}
+#roll-table-head{
+	width: 100%;
+
+
+
+}
+.table-head-tr1{
+     background:  url(../imgs/roll-head.jpg);
+}
+#content .table-head-tr2{
+	background: rgba(95,144,128,1);
+    height: 31px;
+	font-size: 14px;
+	color: #fff;
+}
+.table-head-tr1 td h1{
+color: #fff;
+width: 13%;
+float: left;
+text-align: right;
+text-shadow:3px 0px 9px #fff;
+font-size: 40px;
+}
+.table-head-tr1 td h3{
+	float: left;
+	color: #fff;
+	width: 83%;
+	text-align: left;
+	margin: 39px 0 0 12px;
+}
+ .table-head-tr3 h2{
+	color: rgb(225,225,224);
+	font-size: 26px;
+	float: left;
+	margin: 4px 0px 5px 49px;
+	 
+}
+.table-head-tr3 h2 span{
+	color: #fff;
+	font-size: 20px;
+	padding: 0 0 0 3px;
+	margin:0 0 0 2px;
+	border-left: 3px solid red;
+}
+#content .table-head-tr3{
+	   height: 34px;
+	   background: rgb(26,102,63);
+}
+#roll-table-content{
+	border: 1px solid #fff;
+}
+#roll-table-content tr{
+	height: 30px;
+	font-size: 14px;
+	color: rgb(26,102,126);
+	border: 1px solid #eff;
+}
+#roll-table-content tr td{
+	padding: 5px;
+}
+#roll-table-content th,#roll-table-content td{
+	border: 1px solid #eff;
+}
+
+.table-content-odd-tr{
+	background: #fff;
+}
+.th1{
+	width: 10%
+}
+.th2{
+	width: 50%;
+}
+.th3{
+	width: 20%;
+}
+.th4{
+	width: 20%;
+}
+.th1,.th2,.th3,.th4{
+	color: #000;
+	font-size: 15px;
+}
+.angled-135 {
+    background-color: #DADADA;
+    background-image: -webkit-gradient(linear, 0 0, 100% 100%,
+                            color-stop(.25, rgba(255, 255, 255, .2)), color-stop(.25, transparent),
+                            color-stop(.5, transparent), color-stop(.5, rgba(255, 255, 255, .2)),
+                            color-stop(.75, rgba(255, 255, 255, .2)), color-stop(.75, transparent),
+                            to(transparent));
+    background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+    background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+    background-image: linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+}
+.stripes-left {
+    height: 759px;
+    /*width: 375px;*/
+    /*float: left;*/
+    left: -12.2%;
+    /*margin: 10px;*/
+    width:13%;
+       position: absolute;
+    -webkit-background-size: 4px 4px;
+    -moz-background-size: 4px 4px;
+    background-size: 4px 4px; /* 控制条纹的大小 */
+    
+    -moz-box-shadow: 1px 1px 8px gray;
+    -webkit-box-shadow: 1px 1px 8px gray;
+    box-shadow: 0px 0px 0px gray;
+ 
+}
+.stripes-right{
+    height: 759px;
+    /*width: 375px;*/
+    /*float: left;*/
+    right: -12.4%;
+    /*margin: 10px;*/
+    width:13%;
+     position: absolute;
+    -webkit-background-size: 4px 4px;
+    -moz-background-size: 4px 4px;
+    background-size: 4px 4px; /* 控制条纹的大小 */
+    
+    -moz-box-shadow: 1px 1px 8px gray;
+    -webkit-box-shadow: 1px 1px 8px gray;
+    box-shadow: 1px 1px 8px gray;
+   
+}

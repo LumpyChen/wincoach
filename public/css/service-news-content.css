@@ -1,0 +1,475 @@
+#service{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	height: 1210px;
+
+}
+#news-content{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	height: 1800px;
+}
+#train{
+	height: 1210px;
+	border:1px solid #E8ECF3;
+    padding:0 10px 0 10px;
+	background: #E8ECF3;
+
+}
+#train-2{
+	height: 1800px;
+	border:1px solid #E8ECF3;
+	padding-left:30px;
+	padding-right:30px;
+	
+}
+#train h2,h3,h4 {
+	color:rgb(26,102,126);
+}
+
+#train-p{
+	color: #054;
+	font-size: 15px;
+	background: rgba(255,255,255,0.7);
+	padding: 3px;
+	height: 14.3%;
+	border-radius: 0 5px 5px 5px;
+}
+#train-p ul{
+	float: left;
+    width: 50%;
+	padding: 5px 0px 5px 15px;
+	height: 160px;
+}
+.train-p-ul{
+	border-right: 2px solid #e3f3fc;
+
+}
+#train-p dt a{
+	color:#113f7c;
+	font-size: 15px;
+}
+#train-p dd li a{
+	color:#333;
+	font-size: 13px;
+	padding-left: 2px;
+}
+#train dl dd li{
+	padding: 1px 5px 1px   15px;
+
+}
+#train dl dd{
+	margin:0 10px 0 -3px;
+	border-radius: 5px;
+	background: #fff;
+}
+#train-p dl{
+	margin-bottom:2px;
+}
+#display{
+	padding:0 1px 0 0px;
+	/*width: 27.4%;*/
+}
+#display h2{
+	background-color: rgba(0,0,0,0.1);
+	padding: 10px 0 10px 10px;
+	margin: 0px;
+}
+.newlist-3 {
+    margin: 3px;
+    padding: 0px;
+    line-height: 26px;
+    font-size: 15px;
+    white-space: nowrap;
+    float: left;
+    width: 97.5%;
+}
+.newlist-3 dd{
+   /*margin-top: 10px;*/
+    /*line-height: 2.428571;*/
+
+}
+.newlist-3 a{
+	color: rgb(26,102,126);
+
+}
+.newlist-3 a:hover{
+	color: #697989;
+}
+.newlist-3 dl{
+    padding:2px;
+    border: 1px solid  #E8ECF3;
+}
+.newlist-3 li{
+	list-style-type: none;
+	padding:20px 0 0 5px;
+  
+    font-size: 0.999em; 
+    height: 68px;
+    border-bottom: 1px solid #E8ECF3;
+}
+.newlist-3 li span {
+    padding: 0 5px 0 0px; 
+
+}
+.newlist-3 .odd-list{
+    background: #E8ECF3;
+}
+#display{
+	height: 900px;
+	border:1px solid  #E8ECF3; 
+     /*background-color: #2F4F4F;*/
+}
+#display-2{
+	height: 900px;
+	border:1px solid  #E8ECF3; 
+    
+}
+#display p{
+	color: #008B8B;
+	margin-bottom: 0px;
+
+}
+#display h2{
+	color: rgb(26,102,126);
+	/*box-shadow: 2px 2px 1px 1px #888; */
+	margin: 1px 0 0 0;
+	font-size:24px;
+	
+}
+.tuijian{
+	width: 291px;
+}
+#display img{
+	float: left;
+	margin-right: 7px;
+}
+#train{
+	/*width: 72.6%;*/
+}
+#train img{
+	float: left;
+}
+.service-sec  img{
+	opacity: 0.9;
+}
+.service-sec img:hover{
+	opacity: 1;
+}
+.service-sec{
+	float: left;;
+
+}
+.service-sec{
+text-align: center;
+width: 240px;
+margin-right: 0px;
+float: left;
+}
+.service-sec h4{
+text-align: center;
+}
+
+.ser-left .glyphicon{
+	position:absolute;
+	left: 9%;
+	top:34.2%;
+	color: #fff;
+	font-size: 40px;
+    font-weight: 100;
+	opacity: 1;
+}
+.ser-left ,.ser-right{
+           width: 47%;
+           height: 236px;
+}
+.ser-left img,.ser-right img{
+	width:100%;
+	height: 205px;
+}
+.ser-right .glyphicon{
+	position:absolute;
+	left: 9%;
+	top:74%;
+	color: #fff;
+	font-size: 40px;
+    font-weight: 100;
+	opacity: 1;
+}
+.service-sec .glyphicon:hover{
+	opacity: 0.8;
+	color:rgba(0,0,0,0.9);
+}
+.service-list{
+	margin-top: 20px;
+	float: left;
+	position: relative;
+	height:222px;
+	/*border-bottom: 2px solid  #fff;*/
+	width: 100%;
+}
+#service-list-p{
+	height: 81%;
+	background: rgba(255,255,255,0.7);
+	
+}
+#service-list-p a{
+	color: #113f7c;
+}
+#service-list-p{
+	border-radius: 0 5px 5px 5px;
+}
+#service-list-p ul{
+	float: left;
+	padding:15px 1px 0px 15px ;
+	width:50%;
+
+}
+
+.service-list-p-dl{
+	border-right:2px solid #e3f3fc;
+}
+.service-list-p-dl dt a{
+	font-size: 15px;
+}
+.service-list-p-dl dd {
+	font-size: 13.5px;
+}
+.service-list h3{
+      margin:0px 0 5px 0;
+      padding: 10px 0 5px 0;
+     
+}
+.service-list strong{
+	height: 100px;
+}
+.service-list-icon{
+	position: absolute;
+    top: 26px;
+    width: 0;
+    height: 0;
+    border: 10px solid rgba(255,255,255,0.7);
+    border-color: transparent transparent rgba(255,255,255,0.7);
+    _border-color: tomato tomato #bbd2b8;
+    _filter: chroma(color=tomato);
+    font-size: 0;
+}
+.train-icon{
+	position: absolute;
+    top: 43px;
+    width: 0;
+    height: 0;
+    border: 10px solid rgba(255,255,255,0.7) ;
+   
+    border-color: transparent transparent rgba(255,255,255,0.7);
+    _border-color: tomato tomato #bbd2b8;
+    _filter: chroma(color=tomato);
+    font-size: 0;
+}
+#service-list-team,#service-list-summercamp{
+	clear:both;
+}
+.ser-list{
+	width: 97%;
+	height: 11.5%;
+	position: relative;
+	border-bottom: 2px solid  #E8ECF3;
+	/*padding: 2px 0 0 0px;*/
+	margin: 5px 0 0 3px;
+}
+.ser-list img{
+	width:130px;
+	height:97px;
+}
+.ser-list p strong a{
+	color: #113f7c;
+}
+.ser-list p a{
+	color: #697989;
+}
+.ser-list .ser-list-head{
+   color: rgb(26,102,126);
+}
+.ser-list-a{
+	font-size: 9px;
+
+}
+.news-content-shadow-left,.news-content-shadow-right{
+	height: 1482px;
+		background:url("../image/slider-bg-shadow.png");
+	top: 320px;
+	position: absolute;
+	width: 160px;
+}
+.news-content-shadow-left{
+		left: -160px;
+}
+.news-content-shadow-right{
+		right: -160px;
+}
+.shadow-contact-left,.shadow-contact-right{
+	height: 889px;
+
+}
+.ser-right{
+	position: relative;
+	left: 33px;
+}
+.service-sec:hover{
+	background-color:rgba(225,225,225,1);
+}
+.ser-list:hover{
+	background-color: #F0F8FF;
+}
+
+
+.bt-warning {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    position: relative;
+    left: 90%;
+}
+.bt-warning-2 {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    position: relative;
+    left: 35%;
+    bottom:-45px;
+}
+.bt-warning-3 {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+    position: relative;
+    left: 84%;
+    bottom:27px;
+}
+.bt {
+    display: inline-block;
+    /*padding: 6px 12px;*/
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action:manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.angled-135 {
+    background-color: #DADADA;
+    background-image: -webkit-gradient(linear, 0 0, 100% 100%,
+                            color-stop(.25, rgba(255, 255, 255, .2)), color-stop(.25, transparent),
+                            color-stop(.5, transparent), color-stop(.5, rgba(255, 255, 255, .2)),
+                            color-stop(.75, rgba(255, 255, 255, .2)), color-stop(.75, transparent),
+                            to(transparent));
+    background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+    background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+    background-image: linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+}
+.stripes-left {
+    height: 1209px;
+    /*width: 375px;*/
+    /*float: left;*/
+    left: -13%;
+    /*margin: 10px;*/
+    width:13%;
+       position: absolute;
+    -webkit-background-size: 4px 4px;
+    -moz-background-size: 4px 4px;
+    background-size: 4px 4px; /* 控制条纹的大小 */
+    
+    -moz-box-shadow: 1px 1px 8px gray;
+    -webkit-box-shadow: 1px 1px 8px gray;
+    box-shadow: 1px 1px 8px gray;
+ 
+}
+.stripes-right{
+
+    height: 1209px;
+    /*width: 375px;*/
+    /*float: left;*/
+    right: -13%;
+    /*margin: 10px;*/
+    width:13%;
+     position: absolute;
+    -webkit-background-size: 4px 4px;
+    -moz-background-size: 4px 4px;
+    background-size: 4px 4px; /* 控制条纹的大小 */
+    
+    -moz-box-shadow: 1px 1px 8px gray;
+    -webkit-box-shadow: 1px 1px 8px gray;
+    box-shadow: 1px 1px 8px gray;
+   
+}
+.angled{
+    background-color: #DADADA;
+    background-image: -webkit-gradient(linear, 0 0, 100% 100%,
+                            color-stop(.25, rgba(255, 255, 255, .2)), color-stop(.25, transparent),
+                            color-stop(.5, transparent), color-stop(.5, rgba(255, 255, 255, .2)),
+                            color-stop(.75, rgba(255, 255, 255, .2)), color-stop(.75, transparent),
+                            to(transparent));
+    background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+    background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+    background-image: linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+}
+.stripes-newscontent-left {
+    height: 1800px;
+    /*width: 375px;*/
+    /*float: left;*/
+    left: -13%;
+    /*margin: 10px;*/
+    width:10em;
+       position: absolute;
+    -webkit-background-size: 4px 4px;
+    -moz-background-size: 4px 4px;
+    background-size: 4px 4px; /* 控制条纹的大小 */
+    
+    -moz-box-shadow: 1px 1px 8px gray;
+    -webkit-box-shadow: 1px 1px 8px gray;
+    box-shadow: 1px 1px 8px gray;
+ 
+}
+.stripes-newscontent-right{
+
+    height: 1800px;
+    /*width: 375px;*/
+    /*float: left;*/
+    right: -13%;
+    /*margin: 10px;*/
+    width:10em;
+     position: absolute;
+    -webkit-background-size: 4px 4px;
+    -moz-background-size: 4px 4px;
+    background-size: 4px 4px; /* 控制条纹的大小 */
+    
+    -moz-box-shadow: 1px 1px 8px gray;
+    -webkit-box-shadow: 1px 1px 8px gray;
+    box-shadow: 1px 1px 8px gray;
+   
+}

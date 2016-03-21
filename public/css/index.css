@@ -1,0 +1,68 @@
+.angled-135 {
+    background-color: #DADADA;
+    background-image: -webkit-gradient(linear, 0 0, 100% 100%,
+                            color-stop(.25, rgba(255, 255, 255, .2)), color-stop(.25, transparent),
+                            color-stop(.5, transparent), color-stop(.5, rgba(255, 255, 255, .2)),
+                            color-stop(.75, rgba(255, 255, 255, .2)), color-stop(.75, transparent),
+                            to(transparent));
+    background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+    background-image: -o-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+    background-image: linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                        transparent 75%, transparent);
+}
+.stripes-left {
+    height: 1226px;
+    /*width: 375px;*/
+    /*float: left;*/
+    left: -13%;
+    /*margin: 10px;*/
+    width:13%;
+       position: absolute;
+    -webkit-background-size: 4px 4px;
+    -moz-background-size: 4px 4px;
+    background-size: 4px 4px; /* 控制条纹的大小 */
+    
+    -moz-box-shadow: 1px 1px 8px gray;
+    -webkit-box-shadow: 1px 1px 8px gray;
+    box-shadow: 1px 1px 8px gray;
+ 
+}
+.stripes-right{
+
+    height: 1226px;
+    /*width: 375px;*/
+    /*float: left;*/
+    right: -13%;
+    /*margin: 10px;*/
+    width:13%;
+     position: absolute;
+    -webkit-background-size: 4px 4px;
+    -moz-background-size: 4px 4px;
+    background-size: 4px 4px; /* 控制条纹的大小 */
+    
+    -moz-box-shadow: 1px 1px 8px gray;
+    -webkit-box-shadow: 1px 1px 8px gray;
+    box-shadow: 1px 1px 8px gray;
+   
+}
+.carousel-inner .item img{
+    width: 100%;
+    height: 430px;
+}
+.media-h h4{
+    color: rgb(26,102,126);
+    font-weight: 700;
+
+}
+
+.carousel-caption{
+    font-size: 17px;
+    background: rgba(0,0,0,0.6);
+    height: 48px;
+    padding: 10px;
+}

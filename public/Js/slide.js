@@ -1,0 +1,11 @@
+$(function(){
+    $(".menuTitle").click(function(){
+        $(this).next("div").slideToggle("normal").siblings(".menuContent:visible").slideUp("normal");
+        $(this).attr("class",$(this).attr("class")=="menuTitle"?"activeTitle":"menuTitle");
+        $(this).siblings(".activeTitle").attr("class","menuTitle");
+    });
+    $(".endTitle").click(function(){
+        $(this).next("div").slideToggle("normal").siblings(".menuContent:visible").slideUp("normal");
+        $(this).siblings(".activeTitle").attr("class","menuTitle");
+    });
+});
